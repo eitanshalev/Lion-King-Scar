@@ -1,0 +1,1 @@
+﻿target_sources (LionKingGame PRIVATE "main.cpp" "GameObject.cpp" "Movable.cpp" "World.cpp" "Player.cpp" "Menu.cpp" "Enemy.cpp" "Resources.cpp" "Controller.cpp" "World_Block.cpp" "Hyena.cpp" "Gift.cpp" "Hedgehog.cpp" "Lizard.cpp" "Decoration.cpp" "Vulture.cpp" "Animation.cpp")

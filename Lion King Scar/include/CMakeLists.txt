@@ -1,0 +1,3 @@
+﻿target_include_directories (LionKingGame PRIVATE ${CMAKE_CURRENT_LIST_DIR})
+target_sources (LionKingGame PRIVATE "GameObject.h" "Movable.h" "World.h" "Player.h" "Menu.h" "Enemy.h" "Resources.h" "Controller.h" "World_Block.h" "Hyena.h" "Gift.h" "Hedgehog.h" "Lizard.h" "Decoration.h" "Vulture.h" "Animation.h" "StaticBlock.h" "SpecialBlock.h"
+"HealthGift.h" "SunGift.h" "CheckPointGift.h" "LifeGift.h" "NonMovable.h")
