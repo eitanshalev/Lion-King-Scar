@@ -1,4 +1,4 @@
-
+# The Lion King Scar's story
 The Lion King Scar is a side-scrolling platform game in which players control the protagonist, Scar.
 
 Eitan Shalev and Yona Harel final project, 
