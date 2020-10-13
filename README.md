@@ -6,5 +6,5 @@ Object Oriented Programming and Game Development course 2020.
 Advisors Dr. Michal Alhanaty ,Yehezkel Bernat and Amitai Levi Computer Science department, Hadassah Academic College, Jerusalem.
 
 
-[![](https://github.com/eitanshalev/Lights-game/blob/master/Lights_game_-_SFML___CC%2B%2B_BY_Eitan_Shalev_and_Yona_Harel.gif)](https://www.youtube.com/watch?v=kKJWvTO5axQ "my video game")
+[![](https://github.com/eitanshalev/Lion-King-Scar/blob/master/Lion_King_-_Scars_Story.gif)](https://www.youtube.com/watch?v=iS35b1NAcRU "my video game")
  
